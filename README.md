@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤖 I help clients create production-ready and scalable apps, agents and products<br>🏢 Founder of Crowd Wisdom<br>🤓 Former Director of Engineering at Choco<br>🐠 Creator of Claro AI - Conversation-First Translator<br>🎮 Used to be UT99 Capture the Flag national player<br>🌍 Barcelona | Cologne
+🤖 I help clients create production-ready and scalable apps, agents and products<br>🏢 Founder of Crowd Wisdom<br>🤓 Former Director of Engineering at Choco<br>🐠 Creator of Kiori.co - Knowledge Builder<br>🎮 Used to be UT99 Capture the Flag national player<br>🌍 Barcelona | Cologne
 
 
 ## 🌐 Socials:
