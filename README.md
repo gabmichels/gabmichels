@@ -6,13 +6,13 @@
 
 <!-- Animated typing header -->
 <a href="https://github.com/gabmichels">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=100&lines=Gabriel+Michels;Engineering+Leader+%7C+Builder+%7C+Founder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Gabriel+Michels;Engineering+Leader+%7C+Builder+%7C+Founder" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Short punchy tagline -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3000&pause=2000&color=8B949E&center=true&vCenter=true&repeat=true&width=500&height=30&lines=Turning+ideas+into+production-ready+products+at+scale" alt="Tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3000&pause=2000&color=8B949E&center=true&vCenter=true&repeat=true&width=600&height=30&lines=Turning+ideas+into+production-ready+products+at+scale" alt="Tagline" />
 
 <br/><br/>
 
@@ -59,7 +59,7 @@ const gab = {
 <table>
   <tr>
     <td align="center" width="33%">
-      <img width="40" src="https://cdn.simpleicons.org/openai/white" alt="AI"/>
+      <img width="40" src="https://img.icons8.com/fluency/48/artificial-intelligence.png" alt="AI"/>
       <br/><b>AI Products & Agents</b>
       <br/><sub>End-to-end AI apps with real users, not just demos</sub>
     </td>
@@ -69,7 +69,7 @@ const gab = {
       <br/><sub>TypeScript, React, Node.js, cloud-native</sub>
     </td>
     <td align="center" width="33%">
-      <img width="40" src="https://cdn.simpleicons.org/terraform/white" alt="Scale"/>
+      <img width="40" src="https://cdn.simpleicons.org/amazonaws/white" alt="Scale"/>
       <br/><b>Scalable Systems</b>
       <br/><sub>Architected for growth from day one</sub>
     </td>
@@ -142,30 +142,8 @@ const gab = {
 
 <div align="center">
 
-<!-- Stats + Streak side by side -->
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=gabmichels&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&ring_color=58A6FF&icon_color=58A6FF&title_color=58A6FF" height="180" alt="GitHub Stats"/>
-    </td>
-    <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=gabmichels&theme=github-dark-blue&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="180" alt="GitHub Streak"/>
-    </td>
-  </tr>
-</table>
-
-<!-- Top languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabmichels&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=58A6FF&langs_count=8" width="400" alt="Top Languages"/>
-
-<br/><br/>
-
 <!-- Activity graph — full width -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabmichels&theme=github-compact&hide_border=true&color=58A6FF&line=58A6FF&point=58A6FF&area=true&area_color=1F6FEB" width="95%" alt="Activity Graph"/>
-
-<br/><br/>
-
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=gabmichels&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%" alt="Trophies"/>
 
 </div>
 
