@@ -1,15 +1,205 @@
-# 💫 About Me:
-🤖 I help clients create production-ready and scalable apps, agents and products<br>🏢 Founder of Crowd Wisdom<br>🤓 Former Director of Engineering at Choco<br>🐠 Creator of Kiori.co - Knowledge Builder<br>🎮 Used to be UT99 Capture the Flag national player<br>🌍 Barcelona | Cologne
+<!-- ======================================== -->
+<!--        GABRIEL MICHELS — PROFILE        -->
+<!-- ======================================== -->
 
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mind.the.gab) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mindthegab) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/GabOnChian) 
+<!-- Animated typing header -->
+<a href="https://github.com/gabmichels">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=100&lines=Gabriel+Michels;Engineering+Leader+%7C+Builder+%7C+Founder" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gabmichels&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=gabmichels&theme=cobalt&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gabmichels&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Short punchy tagline -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=3000&pause=2000&color=8B949E&center=true&vCenter=true&repeat=true&width=500&height=30&lines=Turning+ideas+into+production-ready+products+at+scale" alt="Tagline" />
+
+<br/><br/>
+
+<!-- Social links — clean row -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mindthegab)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/GabOnChian)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mind.the.gab)
+[![Kiori.co](https://img.shields.io/badge/Kiori.co-58A6FF?style=for-the-badge&logo=bookstack&logoColor=white)](https://kiori.co)
+[![Raum Temperatur](https://img.shields.io/badge/Raum--Temperatur.de-FF6B6B?style=for-the-badge&logo=homeassistant&logoColor=white)](https://raum-temperatur.de)
+
+</div>
+
+---
+
+<!-- ======================================== -->
+<!--              ABOUT ME                    -->
+<!-- ======================================== -->
+
+### About me
+
+```typescript
+const gab = {
+  location:    "Barcelona | Cologne",
+  role:        "Founder @ Crowd Wisdom",
+  background:  "Former Director of Engineering @ Choco",
+  focus:       "Production-ready AI apps, agents & scalable products",
+  building:    ["kiori.co — Knowledge Builder", "raum-temperatur.de"],
+  funFact:     "Former UT99 CTF national player 🎮",
+};
+```
+
+> **Ex-Director of Engineering** who stepped away from management to go back to building.
+> My GitHub activity isn't typical for someone with my background — and that's the point.
+> I ship fast, learn in public, and build things that work.
+
+---
+
+<!-- ======================================== -->
+<!--            WHAT I BUILD                  -->
+<!-- ======================================== -->
+
+### What I build
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img width="40" src="https://cdn.simpleicons.org/openai/white" alt="AI"/>
+      <br/><b>AI Products & Agents</b>
+      <br/><sub>End-to-end AI apps with real users, not just demos</sub>
+    </td>
+    <td align="center" width="33%">
+      <img width="40" src="https://cdn.simpleicons.org/nextdotjs/white" alt="Full-stack"/>
+      <br/><b>Full-Stack Applications</b>
+      <br/><sub>TypeScript, React, Node.js, cloud-native</sub>
+    </td>
+    <td align="center" width="33%">
+      <img width="40" src="https://cdn.simpleicons.org/terraform/white" alt="Scale"/>
+      <br/><b>Scalable Systems</b>
+      <br/><sub>Architected for growth from day one</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- ======================================== -->
+<!--              TECH STACK                  -->
+<!-- ======================================== -->
+
+### Tech stack
+
+<details open>
+<summary><b>Languages & Frameworks</b></summary>
+<br/>
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>Cloud & Infrastructure</b></summary>
+<br/>
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>Data & Databases</b></summary>
+<br/>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+</details>
+
+---
+
+<!-- ======================================== -->
+<!--            GITHUB METRICS               -->
+<!-- ======================================== -->
+
+### GitHub metrics
+
+<!-- Callout: the unusual commit volume story -->
+> **Not your typical engineering leader's GitHub.**
+> Most Directors of Engineering have empty contribution graphs. I have **4,000+ contributions in the last 12 months**.
+> I believe the best leaders never stop building.
+
+<div align="center">
+
+<!-- Stats + Streak side by side -->
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=gabmichels&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&ring_color=58A6FF&icon_color=58A6FF&title_color=58A6FF" height="180" alt="GitHub Stats"/>
+    </td>
+    <td>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=gabmichels&theme=github-dark-blue&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="180" alt="GitHub Streak"/>
+    </td>
+  </tr>
+</table>
+
+<!-- Top languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabmichels&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=58A6FF&langs_count=8" width="400" alt="Top Languages"/>
+
+<br/><br/>
+
+<!-- Activity graph — full width -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gabmichels&theme=github-compact&hide_border=true&color=58A6FF&line=58A6FF&point=58A6FF&area=true&area_color=1F6FEB" width="95%" alt="Activity Graph"/>
+
+<br/><br/>
+
+<!-- Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=gabmichels&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%" alt="Trophies"/>
+
+</div>
+
+---
+
+<!-- ======================================== -->
+<!--             PROJECTS                     -->
+<!-- ======================================== -->
+
+### Featured projects
+
+<div align="center">
+
+<a href="https://github.com/gabmichels/gemini-multimodal-search">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabmichels&repo=gemini-multimodal-search&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF" />
+</a>
+<a href="https://github.com/gabmichels/claro-website">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabmichels&repo=claro-website&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=gabmichels&style=flat-square&color=58A6FF&label=Profile+views" alt="Profile views"/>
+
+<br/><br/>
+
+**Building in public. Shipping daily. Open to interesting opportunities.**
+
+<br/>
+
+[![Email](https://img.shields.io/badge/Get_in_touch-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mindthegab)
+
+</div>
